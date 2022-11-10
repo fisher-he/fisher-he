@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T09:48:43.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EbPatFNryjjRQfZ3OFXy" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:50:14.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L9lFcYgiZXuMjmWeChQp" version="20.4.0" type="github">
   <diagram id="ZvxK2V62-8f_DOnmW0gn" name="Page-1">
     <mxGraphModel dx="1042" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="40" y="122.5" width="130" height="375" as="geometry" />
+          <mxGeometry x="40" y="122.5" width="140" height="387.5" as="geometry" />
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-1" value="web" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="60" height="50" as="geometry" />
+          <mxGeometry x="80" y="190" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-2" value="web" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
-          <mxGeometry x="80" y="265" width="60" height="50" as="geometry" />
+          <mxGeometry x="80" y="285" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-58" style="shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dc8wsk3SI_C_zTTx__vy-8">
           <mxGeometry relative="1" as="geometry">
@@ -38,7 +38,7 @@
           <mxGeometry x="290" y="117.5" width="650" height="392.5" as="geometry" />
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-3" value="web" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="60" height="50" as="geometry" />
+          <mxGeometry x="80" y="390" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-18" value="&lt;span&gt;EC2&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;gradientDirection=north;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="576" y="156" width="78" height="78" as="geometry" />
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="Dc8wsk3SI_C_zTTx__vy-64" value="Amazon Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="122.5" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dc8wsk3SI_C_zTTx__vy-67" value="&lt;b&gt;Web Users&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="75" y="126" width="65" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
